@@ -10,7 +10,7 @@ Buying a laptop is a decision almost all of us have made at some time. Each of u
 
 [csv Data](https://github.com/khushiyadav2022/Laptop-price-Estimator/blob/5a9ae807c5ee06e2449b31b43cfb849f926a87b8/laptop_data.csv)
 
-Working on Deployement work too. Upload soon
+Working on Deployement work too. I will Upload soon
 
 
 
